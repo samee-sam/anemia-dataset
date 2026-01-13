@@ -25,8 +25,8 @@ Edit
 Upload the anemia.csv file
 Run each cell step-by-step
 ""I built this as part of a hackathon to explore how quantum computing can create real impact, especially in health prediction systems for underserved regions. It’s a small step, but one that blends technology with purpose.""
-personal detials{Naveed Ahamed
-B.Tech AI & Data Science (3rd year)
-GitHub: navvwd
-Email: naveed24ahm.1@gmail.com}
+personal detials{Mohamed Faheem
+B.Tech INformation Technology (3rd year)
+GitHub:mohdfaheee
+Email: faheemsharif51@gmail.com}
 Assalamu Alaikum.
